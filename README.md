@@ -6,7 +6,7 @@
 
 ## 📌 Descripción
 
-Este proyecto analiza y modela el conjunto de datos **Fashion-MNIST**, una base de 70.000 imágenes en escala de grises (28×28 píxeles) que representan prendas de vestir.  
+Este proyecto analiza y modela el conjunto de datos **Fashion-MNIST,** una base de 70.000 imágenes en escala de grises (28×28 píxeles) que representan prendas de vestir.  
 El trabajo se divide en tres partes principales:
 
 1. **Análisis exploratorio**  
