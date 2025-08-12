@@ -1,12 +1,5 @@
 # Trabajo Práctico 2 - Laboratorio de Datos (1er Cuatrimestre 2025)
 
-# Nombre de Grupo: Datos de Labo
-
-# Integrantes:
-# - Denisse Britez
-# - Julieta Samosiuk
-# - Lautaro Alvarez Bertoya
-
 # Contenido:
 # - Análisis exploratorio
 # - Clasificación binaria con kNN
