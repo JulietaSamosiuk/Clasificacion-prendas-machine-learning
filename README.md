@@ -4,7 +4,7 @@ Este trabajo práctico se realizó en el marco de la materia Laboratorio de Dato
 
 ---
 
-## 📌 Descripción
+## Descripción
 
 Este proyecto analiza y modela el conjunto de datos **Fashion-MNIST,** una base de 70.000 imágenes en escala de grises (28×28 píxeles) que representan prendas de vestir.  
 El trabajo se divide en tres partes principales:
@@ -26,7 +26,7 @@ El trabajo se divide en tres partes principales:
 
 ---
 
-## 🛠 Tecnologías y Librerías
+## Tecnologías y Librerías
 
 - **Lenguaje:** Python
 - **Librerías:**
@@ -43,7 +43,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ---
 
-## ▶️ Ejecución
+## Ejecución
 
 1. Descargar el dataset Fashion-MNIST.csv y colocarlo en la carpeta raíz del proyecto.
 
