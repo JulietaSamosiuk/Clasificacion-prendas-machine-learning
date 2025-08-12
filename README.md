@@ -1,6 +1,6 @@
 # Clasificación con Imágenes (Fashion-MNIST)
 
-**Materia:** Laboratorio de Datos – 1er Cuatrimestre 2025  
+Este trabajo práctico se realizó en el marco de la materia Laboratorio de Datos (Licenciatura en Ciencias de Datos, UBA) – 1er Cuatrimestre 2025.
 
 ---
 
