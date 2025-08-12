@@ -26,18 +26,6 @@ El trabajo se divide en tres partes principales:
 
 ---
 
-## 📂 Estructura del repositorio
-
-TP2-Fashion-MNIST/
-│
-├── README.md
-├── TP2-Alvarez_Britez_Samosiuk.py
-├── TP2-Alvarez_Britez_Samosiuk-Informe.pdf
-└── data/
-└── (Instrucciones para obtener Fashion-MNIST.csv)
-
----
-
 ## 🛠 Tecnologías y Librerías
 
 - **Lenguaje:** Python 3.8 o superior
