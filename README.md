@@ -2,12 +2,6 @@
 
 Este trabajo práctico se realizó en el marco de la materia Laboratorio de Datos (Licenciatura en Ciencias de Datos, UBA) – 1er Cuatrimestre 2025.
 
-Proyecto desarrollado por:
-
-   - Denisse Britez
-   - Julieta Samosiuk
-   - Lautaro Alvarez Bertoya
-
 ---
 
 ## 📌 Descripción
