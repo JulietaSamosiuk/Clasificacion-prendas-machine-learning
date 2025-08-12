@@ -17,12 +17,12 @@ El trabajo se divide en tres partes principales:
 2. **Clasificación binaria (kNN)**  
    - Diferenciación entre camisetas/tops (clase 0) y bolsas (clase 8).
    - Selección automática de píxeles más relevantes.
-   - Comparación de configuraciones de atributos y valores de *k.*
+   - Comparación de configuraciones de atributos y valores de k.
 
 3. **Clasificación multiclase (Árbol de Decisión)**  
    - Entrenamiento y evaluación con diferentes profundidades.
    - Validación cruzada para selección de hiperparámetros.
-   - Evaluación final sobre conjunto *held-out.*
+   - Evaluación final sobre conjunto held-out.
 
 ---
 
