@@ -39,3 +39,19 @@ El trabajo se divide en tres partes principales:
 Instalación rápida:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
+---
+
+## ▶️ Ejecución
+
+1. Descargar el dataset Fashion-MNIST.csv y colocarlo en la carpeta raíz del proyecto.
+
+2. Abrir el archivo TP2-Alvarez_Britez_Samosiuk.py en VSCode, Spyder o JupyterLab.
+
+3. Ejecutar sección por sección (#%%) para reproducir análisis y modelos.
+
+4. El script genera:
+   - Visualizaciones del dataset.
+   - Mapas de calor de píxeles relevantes.
+   - Métricas de clasificación (accuracy, matriz de confusión).
