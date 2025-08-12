@@ -55,3 +55,20 @@ pip install numpy pandas matplotlib seaborn scikit-learn
    - Visualizaciones del dataset.
    - Mapas de calor de píxeles relevantes.
    - Métricas de clasificación (accuracy, matriz de confusión).
+
+---
+
+## Estructura del repositorio
+
+```plaintext
+📂 Dataset/
+   ├── Carpeta para el dataset `Fashion-MNIST.csv`.
+📄 Enunciado.pdf
+   ├── Enunciado del trabajo práctico con la descripción y objetivo del proyecto.
+📄 Informe.pdf
+   ├── Informe del trabajo práctico con explicación detallada del proceso y resultados.
+📄 Código.py
+   ├── Script principal en Python: análisis exploratorio, clasificación binaria (kNN) y multiclase (Árbol de Decisión), generación de visualizaciones.
+📄 README.md
+   ├── Descripción general del proyecto, instrucciones de instalación, ejecución y resultados destacados.
+```
