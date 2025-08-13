@@ -62,14 +62,14 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ```plaintext
 📂 Dataset/
-   ├── Carpeta vacía para colocar el dataset `Fashion-MNIST.csv`.
-       ⚠️ Este proyecto utiliza el dataset Fashion-MNIST en formato `.csv`.
-       En las fuentes oficiales, el dataset se encuentra en formato binario (`.idx`).
+   ├── Carpeta vacía para colocar el dataset Fashion-MNIST.csv.
+       ⚠️ Este proyecto utiliza el dataset Fashion-MNIST en formato .csv.
+       En las fuentes oficiales, el dataset se encuentra en formato binario (.idx).
        Opciones para obtenerlo:
          • Kaggle (requiere cuenta gratuita): https://www.kaggle.com/datasets/zalando-research/fashionmnist
-           - Allí podés encontrar versiones ya convertidas a `.csv` en la sección "Data".
-         • GitHub oficial (formato original `.idx`): https://github.com/zalandoresearch/fashion-mnist
-           - Si lo descargás desde aquí, deberás convertirlo a `.csv` antes de usarlo.
+           - Allí podés encontrar versiones ya convertidas a .csv en la sección "Dataset".
+         • GitHub oficial (formato original .idx): https://github.com/zalandoresearch/fashion-mnist
+           - Si lo descargás desde aquí, deberás convertirlo a .csv antes de usarlo.
        Una vez descargado el CSV, guardalo en esta carpeta para poder ejecutar el código.
 📄 Enunciado.pdf
    ├── Enunciado del trabajo práctico con la descripción y objetivo del proyecto.
