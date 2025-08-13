@@ -45,11 +45,11 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## Ejecución
 
-1. Descargar el dataset Fashion-MNIST.csv y colocarlo en la carpeta raíz del proyecto.
+1. Descargar el dataset `Fashion-MNIST.csv` y colocarlo en la carpeta raíz del proyecto.
 
-2. Abrir el archivo TP2-Alvarez_Britez_Samosiuk.py en VSCode, Spyder o JupyterLab.
+2. Abrir el archivo `Código.py` en VSCode, Spyder o JupyterLab.
 
-3. Ejecutar sección por sección (#%%) para reproducir análisis y modelos.
+3. Ejecutar sección por sección (`#%%`) para reproducir análisis y modelos.
 
 4. El script genera:
    - Visualizaciones del dataset.
